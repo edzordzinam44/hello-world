@@ -1,2 +1,3 @@
 # hello-world
 My first repository on GitHub
+I am Edzordzinam Alipui, a passionate Software Engineer, building designer a learner. I hold a high school certificate in building tech and have gained valuable experience through my work as a building designer and also a data keeper. I have a strong skill set in Communication and collaboration, and I have worked on notable projects such as E-commerce Website Development,Building design, and a few. Outside of work, I enjoy video games and football. Feel free to contact me at edzordzinam.alipui@gamil.com or find me on Twitter as edzordzinam.alipui. Let's connect and continue growing in the world of Software Engineers.
